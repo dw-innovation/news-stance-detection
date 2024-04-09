@@ -1,0 +1,5 @@
+As the text is in {language}, your task is to identify and list specific groups or politicians mentioned within the {article}.
+Look for key political figures, organizations, or influential entities that play a crucial role in the narrative.
+Pay close attention to any references made to political parties, advocacy groups, or prominent individuals, and provide a comprehensive list to offer a detailed analysis of the political landscape discussed in the text.
+Your list must be in {language}.
+Return the list and nothing else:

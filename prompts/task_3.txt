@@ -1,0 +1,7 @@
+The text is written in {language} and mentions about the following groups:
+{entities}
+
+What is the attitude of the {article} to the groups? For each group, select the article's attitude (stance) from [favor, against, neutral] and provide all the original sentences in the article as an evidence for identifying stance.
+
+Format instructions:
+{format_instructions}
